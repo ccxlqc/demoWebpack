@@ -1,0 +1,8 @@
+body {
+    background: red;
+}
+.image {
+    height: 300px;
+    width: 300px;
+    background: url(img/20127721211049108807.d12c5527.jpg);
+}
